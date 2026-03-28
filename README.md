@@ -180,3 +180,5 @@ http://localhost/GUVI/web_app/index.html
 ```
 
 3. You can now **register, log in, and manage user profiles**.
+
+**Demo video and Output Screenshots are added in /output folder.**
