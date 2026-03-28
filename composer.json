@@ -1,0 +1,17 @@
+{
+    "name": "user/web_app",
+    "require": {
+        "mongodb/mongodb": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\WebApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sneya9205",
+            "email": "jkv.sneya@gmail.com"
+        }
+    ]
+}

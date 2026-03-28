@@ -1,0 +1,18 @@
+.submit{
+    background-color:rgb(39, 165, 39);
+    color:white;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.index-body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+.index-button{
+    flex:center;
+    gap:60px;
+}
