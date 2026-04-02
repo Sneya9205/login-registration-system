@@ -139,7 +139,7 @@ CREATE TABLE user (
 ```
 ---
 
-## 🔗 Hosted Link
+## Hosted Link
 Access the application here:  
 **[http://13.223.194.120/](http://13.223.194.120/)**
 
