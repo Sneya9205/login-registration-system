@@ -137,7 +137,40 @@ CREATE TABLE user (
   "age": 23
 }
 ```
-## Setup Instructions
+---
+
+## 🔗 Hosted Link
+Access the application here:  
+**[http://13.223.194.120/](http://13.223.194.120/)**
+
+---
+
+## Overview
+A simple login-registration system with profile management, running on **AWS EC2** with PHP, MongoDB, and Redis.
+
+---
+
+## Running Instructions
+
+1. Open the hosted link in your browser.  
+2. Register a new user via the **Register** page.  
+3. Login using your credentials on the **Login** page.  
+4. Update or view profile information on the **Profile** page.
+
+---
+
+## Notes
+
+- The app is served over **HTTP** (port 80). HTTPS is not configured for the IP.  
+- Make sure the **EC2 instance is running** to access the hosted link.  
+- Backend dependencies:
+  - PHP 8.5
+  - MongoDB
+  - Redis
+  - Composer packages installed in `vendor/`
+
+---
+## Local Setup Instructions
 
 Follow these steps to run the project locally:
 
